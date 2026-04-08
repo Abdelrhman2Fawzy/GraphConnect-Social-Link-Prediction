@@ -1,0 +1,6 @@
+{
+  "train_accuracy": 0.8947420634263641,
+  "train_f1": 0.890936296671213,
+  "n_train_rows": 15100030,
+  "n_features": 42
+}

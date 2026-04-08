@@ -1,0 +1,15 @@
+{
+    "graph_path": "data/processed/graph.pkl",
+    "num_nodes": 1862220,
+    "num_edges": 9437519,
+    "saved_artifacts": {
+        "in_degree": "artifacts/in_degree.pkl",
+        "out_degree": "artifacts/out_degree.pkl",
+        "pagerank": "artifacts/pagerank.pkl",
+        "katz_centrality": "artifacts/katz_centrality.pkl",
+        "hits_hubs": "artifacts/hits_hubs.pkl",
+        "hits_auth": "artifacts/hits_auth.pkl",
+        "weight_in": "artifacts/weight_in.pkl",
+        "weight_out": "artifacts/weight_out.pkl"
+    }
+}

@@ -1,0 +1,22 @@
+# Data
+data/
+artifacts/*.pkl
+models/*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Project specific
+graph_stats_full.json
+get_stats.py
+get_simple_stats.py
+get_final_stats.py
+get_model1_family_importance.py
+verify_fix.py

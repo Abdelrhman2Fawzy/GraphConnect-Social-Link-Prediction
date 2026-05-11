@@ -1,4 +1,5 @@
 # 🔗 GraphConnect — Social Link Prediction Engine
+My Blog post explain this project : [blogpost](https://abdelrhman2fawzy.github.io/posts/Building-GraphConnect-From-Facebook-Link-Prediction-Notebook-to-a-Product-Style-Recommendation-System/) 
 
 A production-style **link prediction system** for directed social graphs, built on the Facebook recruiting challenge dataset. Given a social network, GraphConnect predicts which missing links are likely to appear and serves explainable "People You May Know" recommendations via a FastAPI endpoint.
 
